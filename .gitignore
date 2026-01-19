@@ -1,0 +1,12 @@
+user_data/data/
+user_data/backtest_results/
+user_data/logs/
+user_data/plot/
+user_data/notebooks/
+user_data/freqaimodels/
+user_data/hyperopt_results/
+user_data/hyperopts/
+user_data/**/__pycache__/
+*.pyc
+*.zip
+*.json.save
